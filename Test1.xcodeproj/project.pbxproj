@@ -14,6 +14,7 @@
 		2BE174132136710C00490AB6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2BE174112136710C00490AB6 /* LaunchScreen.storyboard */; };
 		2BE1741B2136723400490AB6 /* MyCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BE1741A2136723400490AB6 /* MyCell.swift */; };
 		2BE1741D2136894C00490AB6 /* ViewWithUrlAndImageProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2BE1741C2136894C00490AB6 /* ViewWithUrlAndImageProtocol.swift */; };
+		CFB0457219F940C923E1F955 /* ImageService.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFB04209A73C989B4BD981E8 /* ImageService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		2BE174142136710C00490AB6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2BE1741A2136723400490AB6 /* MyCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCell.swift; sourceTree = "<group>"; };
 		2BE1741C2136894C00490AB6 /* ViewWithUrlAndImageProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewWithUrlAndImageProtocol.swift; sourceTree = "<group>"; };
+		CFB04209A73C989B4BD981E8 /* ImageService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				2BE174142136710C00490AB6 /* Info.plist */,
 				2BE1741A2136723400490AB6 /* MyCell.swift */,
 				2BE1741C2136894C00490AB6 /* ViewWithUrlAndImageProtocol.swift */,
+				CFB04209A73C989B4BD981E8 /* ImageService.swift */,
 			);
 			path = Test1;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 				2BE1740B2136710800490AB6 /* ViewController.swift in Sources */,
 				2BE1741D2136894C00490AB6 /* ViewWithUrlAndImageProtocol.swift in Sources */,
 				2BE174092136710800490AB6 /* AppDelegate.swift in Sources */,
+				CFB0457219F940C923E1F955 /* ImageService.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
